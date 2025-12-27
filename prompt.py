@@ -1,5 +1,5 @@
 REACT_PROMPT_WITH_FORMAT_INSTRUCTIONS = """ 
-Answer the following questions as best you can using Chinese. You have access to the following tools:
+Answer the following questions as best you can using English. You have access to the following tools:
 
 {tools}
 
